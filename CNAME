@@ -1,4 +1,19 @@
-Tipo: CNAME
-Host: www
-Valor: BorgesDineii.github.io. (substitua "seu-nome" pelo nome do seu repositório, ex.: `BorgesDineii.github.io`. Note o ponto final)
+Tipo: A
+Host: @
+Valor: 185.199.108.153
+TTL: Automático ou 3600
+
+Tipo: A
+Host: @
+Valor: 185.199.109.153
+TTL: Automático ou 3600
+
+Tipo: A
+Host: @
+Valor: 185.199.110.153
+TTL: Automático ou 3600
+
+Tipo: A
+Host: @
+Valor: 185.199.111.153
 TTL: Automático ou 3600
