@@ -1,1 +1,3 @@
-www.dayvalenetina.com
+Host: www
+Type: CNAME
+Value: BorgesDineii.github.io
