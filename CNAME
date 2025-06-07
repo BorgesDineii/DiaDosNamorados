@@ -1,1 +1,4 @@
-pqpvalentinaday.com
+Tipo: CNAME
+Host: www
+Valor: BorgesDineii.github.io. (substitua "seu-nome" pelo nome do seu repositório, ex.: `seu-nome.github.io`. Note o ponto final)
+TTL: Automático ou 3600
