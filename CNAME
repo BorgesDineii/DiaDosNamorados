@@ -1,1 +1,3 @@
-www.valentinaday.com
+Host: www
+Type: CNAME
+Value: BorgesDineii.github.io.
